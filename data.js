@@ -1250,7 +1250,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Home Sweet Home",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
